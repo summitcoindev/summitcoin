@@ -96,9 +96,9 @@ public:
 
        
         
-        base58Prefixes[PUBKEY_ADDRESS] = list_of(111);
-        base58Prefixes[SCRIPT_ADDRESS] = list_of(196);
-        base58Prefixes[SECRET_KEY] =     list_of(239);
+        base58Prefixes[PUBKEY_ADDRESS] = list_of(63);
+        base58Prefixes[SCRIPT_ADDRESS] = list_of(125);
+        base58Prefixes[SECRET_KEY] =     list_of(191);
         base58Prefixes[EXT_PUBLIC_KEY] = list_of(0x04)(0x88)(0xB2)(0x1E);
         base58Prefixes[EXT_SECRET_KEY] = list_of(0x04)(0x88)(0xAD)(0xE4);
 
