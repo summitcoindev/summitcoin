@@ -92,7 +92,7 @@ public:
         assert(hashGenesisBlock == uint256("0x0000ef061040c9a2250922aa48a1787ca2f378a8b188aeb700423a0839e203e8"));
         assert(genesis.hashMerkleRoot == uint256("0xf3f2c3e5c6d2893aa2c81ee05993d8a9106481002dcf4be883ab145891e8d0ff"));
 
-	vSeeds.push_back(CDNSSeedData("108.61.178.234", "108.61.178.234"));        
+	vSeeds.push_back(CDNSSeedData("dnsseed.summitco.in", "dnsseed.summitco.in"));        
 
        
         
